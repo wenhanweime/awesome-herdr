@@ -37,10 +37,10 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
    - [Vim, Kakoune, and other editors (17)](#vim-kakoune-and-other-editors)
    - [REPL and code dispatchers (21)](#repl-and-code-dispatchers)
    - [Editor plugins and bridges (2)](#editor-plugins-and-bridges)
-4. [Switch and restore sessions (176)](#4-switch-and-restore-sessions)
+4. [Switch and restore sessions (177)](#4-switch-and-restore-sessions)
    - [Fuzzy session switchers and terminal pickers (131)](#fuzzy-session-switchers-and-terminal-pickers)
    - [Persistence, snapshots, and state restoration (30)](#persistence-snapshots-and-state-restoration)
-   - [Workspace and multi-session management (15)](#workspace-and-multi-session-management)
+   - [Workspace and multi-session management (16)](#workspace-and-multi-session-management)
 5. [Worktrees and terminal experience (500)](#5-worktrees-and-terminal-experience)
    - [Git worktree automation (129)](#git-worktree-automation)
    - [Workspace lifecycle and multi-repository tools (4)](#workspace-lifecycle-and-multi-repository-tools)
@@ -1484,7 +1484,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 
 ## 4. Switch and restore sessions
 
-*176 projects. Fuzzy switchers, state managers, and layout restoration tools for organizing agent workspaces.*
+*177 projects. Fuzzy switchers, state managers, and layout restoration tools for organizing agent workspaces.*
 
 ### Fuzzy session switchers and terminal pickers
 
@@ -1663,7 +1663,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 
 ### Workspace and multi-session management
 
-*15 projects. Managers for creating, grouping, naming, attaching to, and cleaning up several sessions.*
+*16 projects. Managers for creating, grouping, naming, attaching to, and cleaning up several sessions.*
 
 | Project | What it does |
 |---|---|
@@ -1682,6 +1682,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 | [**ultrakorne/herdr-link-hints**](https://github.com/ultrakorne/herdr-link-hints) | Provides EasyMotion-style keyboard link hints for the herdr terminal workspace manager. |
 | [**latest-debs/herdr-debian**](https://github.com/latest-debs/herdr-debian) | Provides herdr (agent multiplexer) .deb packages for Debian. |
 | [**hodkovickybuh/herdr-colors**](https://github.com/hodkovickybuh/herdr-colors) | Provides herdr fork with a scannable sidebar: per-workspace colors, auto color by project, red = agent needs you. |
+| [**wenhanweime/herduck**](https://github.com/wenhanweime/herduck) | Groups related Claude Code, Codex, OpenCode, and Pi sessions into one Work and keeps its goal, blocker, and next step. A separate app derived from Herdr, with a thin plugin (`wenhanweime/herduck/herdr-plugin`) that opens it from Herdr. |
 
 ---
 
